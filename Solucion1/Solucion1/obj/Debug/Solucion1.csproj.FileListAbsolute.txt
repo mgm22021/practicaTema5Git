@@ -1,0 +1,10 @@
+C:\Users\melis\source\repos\practicaTema5Git\Solucion1\Solucion1\bin\Debug\Solucion1.exe.config
+C:\Users\melis\source\repos\practicaTema5Git\Solucion1\Solucion1\bin\Debug\Solucion1.exe
+C:\Users\melis\source\repos\practicaTema5Git\Solucion1\Solucion1\bin\Debug\Solucion1.pdb
+C:\Users\melis\source\repos\practicaTema5Git\Solucion1\Solucion1\obj\Debug\Solucion1.csprojAssemblyReference.cache
+C:\Users\melis\source\repos\practicaTema5Git\Solucion1\Solucion1\obj\Debug\Solucion1.Form1.resources
+C:\Users\melis\source\repos\practicaTema5Git\Solucion1\Solucion1\obj\Debug\Solucion1.Properties.Resources.resources
+C:\Users\melis\source\repos\practicaTema5Git\Solucion1\Solucion1\obj\Debug\Solucion1.csproj.GenerateResource.cache
+C:\Users\melis\source\repos\practicaTema5Git\Solucion1\Solucion1\obj\Debug\Solucion1.csproj.CoreCompileInputs.cache
+C:\Users\melis\source\repos\practicaTema5Git\Solucion1\Solucion1\obj\Debug\Solucion1.exe
+C:\Users\melis\source\repos\practicaTema5Git\Solucion1\Solucion1\obj\Debug\Solucion1.pdb
